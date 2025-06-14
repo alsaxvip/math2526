@@ -15,6 +15,7 @@ export default defineConfig({
     minify: 'esbuild',
     sourcemap: false,
     rollupOptions: {
+      external: ['src/main.tsx'],
       output: {
         manualChunks: {
           // Split vendor chunks for better caching
