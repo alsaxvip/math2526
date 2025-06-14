@@ -4,7 +4,7 @@
  */
 
 // ID Spreadsheet - ganti dengan ID spreadsheet Anda
-const SPREADSHEET_ID = 'MASUKKAN_ID_SPREADSHEET_ANDA_DISINI';
+const SPREADSHEET_ID = '17cBbseLu97TaUhP3Ax1-mlzvk8Ujg19cFN8Fnb_Xt5M';
 
 // Nama-nama sheet
 const STUDENTS_SHEET = 'students';
